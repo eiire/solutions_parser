@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+bs4 = "*"
+django-request = "*"
+selenium = "*"
+html5lib = "*"
+pytractor = "*"
+requests = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

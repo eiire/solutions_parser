@@ -1,0 +1,4 @@
+.idea
+/geckodriver.log
+/result.json
+/incomplete_result.json
